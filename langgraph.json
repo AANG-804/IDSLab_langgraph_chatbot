@@ -1,7 +1,6 @@
 {
     "dependencies": [
-        ".",
-        "requirements.txt"
+        "."
     ],
     "graphs": {
         "simple_chatbot": "./graph.py:graph"
