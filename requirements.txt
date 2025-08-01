@@ -1,7 +1,7 @@
-flask
-langchain
-langchain-openai
-langchain-community
-langgraph
-openai
-python-dotenv
+flask>=3.1.1
+langchain>=0.3.27
+langchain-community>=0.3.27
+langchain-openai>=0.3.28
+langgraph>=0.6.2
+openai>=1.98.0
+python-dotenv>=1.1.1
