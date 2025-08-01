@@ -1,6 +1,6 @@
 {
     "dependencies": [
-        "requirements.txt"
+        ".", "requirements.txt"
     ],
     "graphs": {
         "my_agent": "./graph.py:graph"
