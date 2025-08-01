@@ -4,7 +4,7 @@
         "requirements.txt"
     ],
     "graphs": {
-        "simple": "./graph.py:graph"
+        "simple_chatbot": "./graph.py:graph"
     },
     "env": ".env",
     "image_distro": "wolfi"
