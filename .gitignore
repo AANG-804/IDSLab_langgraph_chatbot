@@ -1,0 +1,5 @@
+# Python 프로젝트 예시
+__pycache__/
+*.pyc
+.env
+.venv/
