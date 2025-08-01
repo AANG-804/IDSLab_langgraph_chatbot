@@ -4,6 +4,8 @@
         "requirements.txt"
     ],
     "graphs": {
-        "my_agent": "./graph.py:graph"
-    }
+        "simple": "./graph.py:graph"
+    },
+    "env": ".env",
+    "image_distro": "wolfi"
 }
