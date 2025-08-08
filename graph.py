@@ -64,6 +64,7 @@ def build_graph(
     builder.add_edge("chatbot", END)
     
     checkpointer = InMemorySaver()
-    return builder.compile(checkpointer=checkpointer)
+    # return builder.compile(checkpointer=checkpointer)
+    return builder.compile()
 
 graph = build_graph()

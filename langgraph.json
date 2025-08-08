@@ -3,7 +3,7 @@
         "."
     ],
     "graphs": {
-        "simple_chatbot": "./graph.py:graph"
+        "graph": "./graph.py:graph"
     },
     "env": ".env",
     "image_distro": "wolfi"
